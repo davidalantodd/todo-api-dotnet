@@ -42,7 +42,11 @@ Start the server
   dotnet run --launch-profile https
 ```
 
-Test the API endpoints by visting the https URL with /swagger appended. (e.g. https://localhost:1234/swagger)
+## Testing
+
+Test the API endpoints by:
+- visting the https URL with /swagger appended. (e.g. https://localhost:1234/swagger)
+- using Postman (https://localhost:1234)
 
 
 Project created using this [Microsoft tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio-code)
